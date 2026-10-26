@@ -1,0 +1,5 @@
+resource_group_name  = "mate-terraform-task-2-rg"
+location             = "West Europe"
+storage_account_name = "mate2replacewithunique"
+container_name       = "terraform-code"
+blob_name            = "terraform-code.zip"
